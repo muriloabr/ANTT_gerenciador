@@ -1,7 +1,6 @@
 # C# : gerenciador de atendimentos ANTT
 
-Aplicação em C# criada em 2012 para registro de atendimentos de ANTT
-Linguagem : C# + MySql
+Aplicação em C# + MySql criada em 2012 para registro de atendimentos de ANTT
 
 - Aplicação, DLLs;
 - Estruturas, conceitos, funções;
